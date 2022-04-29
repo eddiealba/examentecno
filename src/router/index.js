@@ -16,6 +16,7 @@ import Entertainment from '../components/category/Entertainment.vue'
 import Features from '../components/category/Feature.vue'
 import Sports from '../components/category/Sports.vue'
 import Trending from '../components/category/Trending.vue'
+import Service from '../views/Service.vue'
 
 
 Vue.use(VueRouter)
@@ -100,6 +101,11 @@ const routes = [
     path: '/trending',
     name: 'Trending',
     component: Trending
+  },
+  {
+    path: '/service',
+    name: 'Service',
+    component: Service
   },
 ]
 
