@@ -45,6 +45,37 @@
                     <input type="text" placeholder="Carnet de Identidad / NIT" />
                   </div>
                 </div>
+
+                <div class="col-md-6">
+                  <div class="input-box">
+                  <input type="text" id="inputNumero" maxlength="19" autocomplete="off" placeholder="Numero de Tarjeta">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-box">
+                  <input type="text" id="inputNombre" maxlength="19" autocomplete="off" placeholder="Nombre de Tarjeta">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <label for="selectMes">Expiracion</label>
+                    <div class="flexbox">
+                      <div class="grupo-select">
+                        <select name="mes" id="selectMes">
+                          <option disabled selected>Mes</option>
+                        </select>
+                      
+                        <select name="year" id="selectYear">
+                          <option disabled selected>Año</option>
+                        </select>
+                        </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-box">
+                  <input type="text" id="inputCCV" maxlength="3" placeholder="CCV">
+                </div>      
+                </div>
+                
+                </div>
                 <div class="col-lg-12">
                   <div class="input-box">
                     <textarea
