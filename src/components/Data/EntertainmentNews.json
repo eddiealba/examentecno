@@ -2,10 +2,10 @@
   "data": [
     {
       "_id": "61810a96f94ed7881da838db",
-      "title": "The Destinations Around The World Open…",
-      "article": " The property, complete with 30-seat screening from room, a 100-seat amphitheater and a swimming pond with sandy shower",
+      "title": "Áñez envía una carta a Eliane Capobianco, que se rehusó a ser su testigo",
+      "article": " Tres hojas revelan la soledad de la exmandataria ante la falta de respaldo de parlamentarios Demócratas en el juicio en su contra. Capobianco participó como ministra de Desarrollo Rural y Tierras en el Gobierno transitorio",
       "action":"trending",
-      "image": "entertainment-1.jpg",
+      "image": "trending-news-1.jpg",
       "category": {
         "name": "Technology",
         "create_At": "March 27, 2020"
@@ -13,10 +13,10 @@
     },
     {
       "_id": "61810a96ed484972a85cc109",
-      "title": "How Travelers Help To Protect The…",
-      "article": " The property, complete with 30-seat screening from room, a 100-seat amphitheater and a swimming pond with sandy shower",
+      "title": "Gobierno revertirá tierras de Branko Marinkovic y otros empresarios en Santa Cruz",
+      "article": " Cerca de 300.000 hectáreas de tierra serán revertidas. Al menos 27.000 pertenecen al exministro de Economía, Branko Marinkovic, según información que maneja el Gobierno",
       "action":"play",
-      "image": "entertainment-2.jpg",
+      "image": "trending-news-2.jpg",
       "category": {
         "name": "Technology",
         "create_At": "March 27, 2020"
@@ -24,10 +24,10 @@
     },
     {
       "_id": "61810a9659b5fc229a8c1389",
-      "title": "How Travelers Help To Protect The…",
-      "article": " The property, complete with 30-seat screening from room, a 100-seat amphitheater and a swimming pond with sandy shower",
+      "title": "Educación espera un incremento de afecciones respiratorias para disponer horario de invierno",
+      "article": "El descanso pedagógico comenzará el 4 de abril y se debería extender por dos semanas. Autoridades están pendientes a los informes de las instancias de salud",
       "action":"trending",
-      "image": "entertainment-3.jpg",
+      "image": "trending-news-3.jpg",
       "category": {
         "name": "Technology",
         "create_At": "March 27, 2020"
@@ -35,10 +35,10 @@
     },
     {
       "_id": "61810a9688b5023a5fb07812",
-      "title": "The Purpose Is Share Strategies And…",
-      "article": "The property, complete with 30-seat screening from room, a 100-seat amphitheater and a swimming pond with sandy shower",
+      "title": "Trabajadores de salud suspenden paro en Santa Cruz en medio de quejas por falta de atención",
+      "article": "La circular oficial llegó de parte de la Confederación Nacional del sector esta mañana. En el San Juan de Dios, la gente espera molesta sacar ficha para consultas y cirugías atrasadas",
       "action":"play",
-      "image": "entertainment-4.jpg",
+      "image": "trending-news-1.jpg",
       "category": {
         "name": "Technology",
         "create_At": "March 27, 2020"
@@ -46,14 +46,14 @@
     },
     {
       "_id": "61810a961523248bb75b0f33",
-      "title": "Improve Your Mood By Saving Money…",
-      "article": "The property, complete with 30-seat screening from room, a 100-seat amphitheater and a swimming pond with sandy shower",
+      "title": "Rutas expeditas para un fin de semana largo por el feriado; solo en Chochís se reporta un bloqueo temporal",
+      "article": "La protesta vecinal reclama transparencia en el manejo económico a las autoridades de Roboré. Mientras que las comunidades ayoreas levantaron temporalmente el corte de carreteras hasta el día martes.",
       "action":"trending",
-      "image": "entertainment-2.jpg",
+      "image": "trending-news-2.jpg",
       "category": {
         "name": "Technology",
         "create_At": "March 27, 2020"
       }
-    }
+     }
   ]
 }
