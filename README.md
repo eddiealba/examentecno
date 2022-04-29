@@ -1,5 +1,5 @@
 # examentecno
-Video codigo: https://drive.google.com/file/d/19HyQQ61HUWpshjaB6sStUQIucWFz3fU2/view?usp=sharing
+Video explicacion del codigo: https://drive.google.com/file/d/19HyQQ61HUWpshjaB6sStUQIucWFz3fU2/view?usp=sharing
 
 Integrantes:
 
