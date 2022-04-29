@@ -23,15 +23,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-5 col-md-7">
-              <div class="footer-newaletter">
-                <div class="input-box">
-                  <input type="text" placeholder="Your email address" />
-                  <button type="button">Suscribete</button>
-                </div>
-                <p>Odiamos el spam como tú</p>
-              </div>
-            </div>
+           
           </div>
         </div>
         <div class="footer-widget-area">

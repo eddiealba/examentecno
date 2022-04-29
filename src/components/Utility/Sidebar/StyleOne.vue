@@ -127,14 +127,14 @@
         <div class="gallery_item_content">
           <div class="post-meta">
             <div class="meta-categories">
-              <a href="#">TECHNOLOGY</a>
+              <a href="#">Economia</a>
             </div>
             <div class="meta-date">
-              <span>March 26, 2020</span>
+              <span>Abril 26, 2022</span>
             </div>
           </div>
           <h4 class="title">
-            <a href="#">Nancy zhang a chinese busy woman and dhaka</a>
+            <a href="#">El incremento salarial no llegará a todo el sector público</a>
           </h4>
         </div>
       </div>
@@ -146,14 +146,15 @@
         <div class="gallery_item_content">
           <div class="post-meta">
             <div class="meta-categories">
-              <a href="#">TECHNOLOGY</a>
+              <a href="#">Politica</a>
             </div>
             <div class="meta-date">
-              <span>March 26, 2020</span>
+              <span>Abirl 28, 2022</span>
             </div>
           </div>
           <h4 class="title">
-            <a href="#">The billionaire Philan thropist read to learn</a>
+            <a href="#">El mandatario confirmará el incremento salarial y anunciará un paquete normativo. También habrán marchas de los obreros en otros departamentos
+     </a>
           </h4>
         </div>
       </div>
@@ -165,14 +166,14 @@
         <div class="gallery_item_content">
           <div class="post-meta">
             <div class="meta-categories">
-              <a href="#">TECHNOLOGY</a>
+              <a href="#">Educacion</a>
             </div>
             <div class="meta-date">
-              <span>March 26, 2020</span>
+              <span>Abril 26, 2022</span>
             </div>
           </div>
           <h4 class="title">
-            <a href="#">Cheap smartphone sensor could help you old food safe</a>
+            <a href="#">Educación espera un incremento de afecciones respiratorias para disponer horario de invierno</a>
           </h4>
         </div>
       </div>
