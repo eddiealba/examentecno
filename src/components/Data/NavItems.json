@@ -127,7 +127,7 @@
     },
     {
       "id": 7,
-      "linkText": "Contact",
+      "linkText": "Contactos",
       "link": "/contact",
       "child":false
     }

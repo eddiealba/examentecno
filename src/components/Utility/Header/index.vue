@@ -85,15 +85,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="nice-select-item">
-                <select class="select-lang">
-                  <option data-display="English">English</option>
-                  <option value="1">Bangla</option>
-                  <option value="2">Hindi</option>
-                  <option value="3">option</option>
-                  <option value="4">Potato</option>
-                </select>
-              </div>
+              
               <div class="header-temperature">
                 <div class="icon">
                   <img src="@/assets/images/temperature-icon.svg" alt="" />
@@ -102,7 +94,7 @@
                   <h5 class="title">
                     13 <sup>0<sub>C</sub></sup>
                   </h5>
-                  <p>San Francisco</p>
+                  <p>La Paz</p>
                 </div>
               </div>
             </div>

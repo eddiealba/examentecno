@@ -6,28 +6,28 @@
           <div class="contact-box">
             <form action="#">
               <h3 class="title">
-                Let’s work together! <br />
-                Fill out the form.
+                Contactenos <br />
+                Puede llenar el siguiente formulario con sus dudas o sugerencias
               </h3>
               <div class="row">
                 <div class="col-md-6">
                   <div class="input-box">
-                    <input type="text" placeholder="Full name" />
+                    <input type="text" placeholder="Nombre Completo" />
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="input-box">
-                    <input type="text" placeholder="Subject" />
+                    <input type="text" placeholder="Asunto" />
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="input-box">
-                    <input type="email" placeholder="Email address" />
+                    <input type="email" placeholder="Email " />
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="input-box">
-                    <input type="email" placeholder="Phone number" />
+                    <input type="email" placeholder="Telefono o Celular" />
                   </div>
                 </div>
                 <div class="col-lg-12">
@@ -37,9 +37,9 @@
                       id="#"
                       cols="30"
                       rows="10"
-                      placeholder="Tell us about your message…"
+                      placeholder="Escriba su comentario o mensaje"
                     ></textarea>
-                    <button class="main-btn">SEND MESSAGE</button>
+                    <button class="main-btn">Enviar</button>
                   </div>
                 </div>
               </div>
@@ -59,9 +59,8 @@
 
 <script>
 import FromCount from "../Utility/FollowCount/index";
-import SignupStyleOne from "../Utility/Signup/SignupStyleOne.vue";
 export default {
-  components: { FromCount, SignupStyleOne },
+  components: { FromCount},
 };
 </script>
 

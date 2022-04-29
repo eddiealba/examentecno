@@ -4,7 +4,7 @@
       <div class="row align-items-center">
         <div class="col-lg-8">
           <div class="topbar-trending">
-            <span>Trending</span>
+            <span>En Tendencia</span>
             <div class="trending-slider">
               <span
                 @click="prev"
@@ -32,7 +32,6 @@
         </div>
         <div class="col-lg-4">
           <div class="topbar-social d-flex align-items-center">
-            <p>Thursday, March 26, 2020</p>
             <div class="social">
               <ul>
                 <li>
