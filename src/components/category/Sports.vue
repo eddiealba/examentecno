@@ -38,13 +38,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -57,13 +56,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Huajchilla
                           </p>
                         </div>
                       </div>
@@ -76,13 +74,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -95,13 +92,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -114,13 +110,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -133,13 +128,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -152,13 +146,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -171,13 +164,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -190,13 +182,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -209,13 +200,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -228,13 +218,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                           Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -247,13 +236,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -266,13 +254,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
@@ -285,13 +272,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>Venta de Inmuebles</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Casa en Humamanta
                           </p>
                         </div>
                       </div>
