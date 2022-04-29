@@ -6,9 +6,8 @@
         <div class="row align-items-center">
           <div class="col-lg-4">
             <div class="logo">
-              <router-link to="/">
-                <img :src="require(`@/assets/images/` + image)" alt="feature" />
-              </router-link>
+              <h1>Periódico "La Paz"</h1>
+              <p>Excelencia, Persistencia y Narración de los hechos más importantes.</p>
             </div>
           </div>
           <div class="col-lg-8">

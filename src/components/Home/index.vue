@@ -63,8 +63,8 @@
                     align-items-center
                   "
                 >
-                  <h3 class="title">Upcoming Matches</h3>
-                  <a href="#">ALL SEE</a>
+                  <h3 class="title">Próximos Partidos</h3>
+                  <a href="#">Ver Todo</a>
                 </div>
                 <div class="upcoming-matches-post-items">
                   <div
@@ -74,9 +74,9 @@
                       <img src="@/assets/images/flag/flag-1.png" alt="flag" />
                     </div>
                     <div class="upcoming-matches-content">
-                      <span>Germany <span>VS</span> France</span>
+                      <span>Alemania <span>VS</span> Francia</span>
                       <ul>
-                        <li>Tomorrow</li>
+                        <li>Mañana</li>
                         <li>22:30 (CST)</li>
                       </ul>
                     </div>
@@ -93,10 +93,10 @@
                       <img src="@/assets/images/flag/flag-2.png" alt="flag" />
                     </div>
                     <div class="upcoming-matches-content">
-                      <span>Spain <span>VS</span> Portugal</span>
+                      <span>España <span>VS</span> Portugal</span>
                       <ul>
-                        <li>Tomorrow</li>
-                        <li>22:30 (CST)</li>
+                        <li>Sabado 25 de mayo</li>
+                        <li>16:30 (CST)</li>
                       </ul>
                     </div>
                     <div class="upcoming-matches-circle">
@@ -112,10 +112,10 @@
                       <img src="@/assets/images/flag/flag-3.png" alt="flag" />
                     </div>
                     <div class="upcoming-matches-content">
-                      <span>Russia <span>VS</span> Italy</span>
+                      <span>Rusia <span>VS</span> Italia</span>
                       <ul>
-                        <li>Tomorrow</li>
-                        <li>22:30 (CST)</li>
+                        <li>Lunes 3 de Mayo</li>
+                        <li>07:30 (CST)</li>
                       </ul>
                     </div>
                     <div class="upcoming-matches-circle">
@@ -131,10 +131,10 @@
                       <img src="@/assets/images/flag/flag-4.png" alt="flag" />
                     </div>
                     <div class="upcoming-matches-content">
-                      <span>Croatia <span>VS</span> England</span>
+                      <span>Croacia <span>VS</span> Inglaterra</span>
                       <ul>
-                        <li>Tomorrow</li>
-                        <li>22:30 (CST)</li>
+                        <li>Siguinete Miércoles</li>
+                        <li>18:30 (CST)</li>
                       </ul>
                     </div>
                     <div class="upcoming-matches-circle">
@@ -150,10 +150,10 @@
                       <img src="@/assets/images/flag/flag-5.png" alt="flag" />
                     </div>
                     <div class="upcoming-matches-content">
-                      <span>Germany <span>VS</span> France</span>
+                      <span>Bolivia <span>VS</span> Perú</span>
                       <ul>
-                        <li>Tomorrow</li>
-                        <li>22:30 (CST)</li>
+                        <li>Siguinte Jueves</li>
+                        <li>18:30 (CST)</li>
                       </ul>
                     </div>
                     <div class="upcoming-matches-circle">
@@ -167,16 +167,14 @@
               <div class="newsletter-box mt-45">
                 <h5 class="title">Newsletter</h5>
                 <p>
-                  Your email address will not be this published. Required fields
-                  are News Today.
+                  Tu email no sera publicado, pero recibiras nuestras noticias cada día al instante
                 </p>
                 <form action="#">
                   <div class="input-box">
                     <input type="text" placeholder="Your email address" />
-                    <button type="button">SIGN UP</button>
+                    <button type="button">Suscribete</button>
                   </div>
                 </form>
-                <span>We hate spam as much as you do</span>
               </div>
               <div class="Categories-post mt-40">
                 <div
@@ -187,8 +185,8 @@
                     align-items-center
                   "
                 >
-                  <h3 class="title">Categories</h3>
-                  <a href="#">ALL SEE</a>
+                  <h3 class="title">Categorias</h3>
+                  <a href="#">VER TODO</a>
                 </div>
                 <div class="Categories-item">
                   <div class="item">
@@ -198,7 +196,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Restaurant</span>
+                        <span>Restaurantes</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -210,7 +208,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Entertainment</span>
+                        <span>Entretenimiento</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -222,7 +220,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Financial</span>
+                        <span>Financias</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -234,7 +232,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Business</span>
+                        <span>Negocios</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -246,7 +244,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Scientists</span>
+                        <span>Ciencia</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -258,7 +256,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>International’s</span>
+                        <span>Internacional</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>

@@ -11,9 +11,9 @@
                     <li class="breadcrumb-item">
                       <a href="index.html">Home</a>
                     </li>
-                    <li class="breadcrumb-item"><a href="#">Category</a></li>
+                    <li class="breadcrumb-item"><a href="#">Categoria</a></li>
                     <li class="breadcrumb-item active" aria-current="page">
-                      Entertainment
+                      Venta de productos
                     </li>
                   </ol>
                 </nav>
@@ -24,7 +24,7 @@
                 <div class="archive-btn">
                   <ul>
                     <li>
-                      <span>Category: <span>Entertainment</span></span>
+                      <span>Categoria: <span>Compra y Venta de Productos</span></span>
                     </li>
                   </ul>
                 </div>

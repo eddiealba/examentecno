@@ -9,7 +9,7 @@
               darkClass && 'title' in darkClass ? darkClass.title : '',
             ]"
           >
-            <h3 class="title">Trending News</h3>
+            <h3 class="title">Noticias del Momento</h3>
           </div>
           <div class="trending-news-slider position-relative">
             <span
@@ -96,7 +96,7 @@
             <FollowCount />
             <div class="trending-most-view mt-25">
               <div class="section-title">
-                <h3 class="title">Most View</h3>
+                <h3 class="title">Más Vistas</h3>
               </div>
             </div>
             <div class="trending-sidebar-slider position-relative">

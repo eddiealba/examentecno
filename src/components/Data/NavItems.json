@@ -2,114 +2,37 @@
   "data": [
     {
       "id": 1,
-      "linkText": "Home",
+      "linkText": "Inicio",
       "child": true,
       "icon": "angle-down",
       "submenu": [
         {
           "id": 11,
           "link": "/",
-          "linkText": "Home 1"
-        },
-        {
-          "id": 12,
-          "link": "/dark",
-          "linkText": "Home Dark"
-        },
-        {
-          "id": 13,
-          "link": "/home-two",
-          "linkText": "Home 2"
-        },
-        {
-          "id": 14,
-          "link": "/home-three",
-          "linkText": "Home 3"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "linkText": "Pages",
-      "child": true,
-      "icon": "angle-down",
-      "submenu": [
-        {
-          "id": 21,
-          "link": "/about-us",
-          "linkText": "About"
-        },
-        {
-          "id": 22,
-          "link": "/archive",
-          "linkText": "Archive"
-        },
-        {
-          "id": 23,
-          "link": "/contact",
-          "linkText": "Contact Us"
-        },
-        {
-          "id": 24,
-          "link": "/404",
-          "linkText": 404
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "linkText": "Posts",
-      "child": true,
-      "icon": "angle-down",
-      "submenu": [
-        {
-          "id": 31,
-          "linkText": "Post 1",
-          "link":"/posts/postOne"  
-        },
-        {
-          "id": 32,
-          "linkText": "Post 2",
-          "link":"/posts/posttwo"
-        },
-        {
-          "id": 33,
-          "linkText": "Post 3",
-          "link":"/posts/postthree"
-         
+          "linkText": "Destacados"
         }
       ]
     },
     {
       "id": 4,
-      "linkText": "Categories",
+      "linkText": "Clasificados",
       "child": true,
       "icon": "angle-down",
       "submenu": [
         {
           "id": 41,
           "link": "/business",
-          "linkText": "Business"
+          "linkText": "Oferta de Servicios"
         },
         {
           "id": 42,
           "link": "/entertainment",
-          "linkText": "Entertainment"
-        },
-        {
-          "id": 43,
-          "link": "/features",
-          "linkText": "Features"
+          "linkText": "Compra y venta de Productos"
         },
         {
           "id": 44,
           "link": "/sports",
-          "linkText": "Sports"
-        },
-        {
-          "id": 45,
-          "link": "/trending",
-          "linkText": "Trending"
+          "linkText": "Venta de Inmuebles"
         }
       ]
     },
@@ -117,12 +40,6 @@
       "id": 5,
       "linkText": "Servicios",
       "link": "/service",
-      "child":false
-    },
-    {
-      "id": 6,
-      "linkText": "Sports",
-      "link": "/sports",
       "child":false
     },
     {

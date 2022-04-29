@@ -11,9 +11,9 @@
                     <li class="breadcrumb-item">
                       <a href="index.html">Home</a>
                     </li>
-                    <li class="breadcrumb-item"><a href="#">Category</a></li>
+                    <li class="breadcrumb-item"><a href="#">Categoria</a></li>
                     <li class="breadcrumb-item active" aria-current="page">
-                      Business
+                      Oferta de Servicios
                     </li>
                   </ol>
                 </nav>
@@ -24,7 +24,7 @@
                 <div class="archive-btn">
                   <ul>
                     <li>
-                      <span>Category: <span>Business</span></span>
+                      <span>Categoria: <span>Oferta de Servicios</span></span>
                     </li>
                   </ul>
                 </div>
@@ -46,24 +46,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>
@@ -84,24 +82,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanías</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>
@@ -122,24 +118,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>
@@ -160,24 +154,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>
@@ -198,24 +190,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>
@@ -236,24 +226,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>
@@ -274,24 +262,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>
@@ -312,24 +298,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>
@@ -350,24 +334,22 @@
                               <div class="trending-news-content">
                                 <div class="post-meta">
                                   <div class="meta-categories">
-                                    <a href="#">TECHNOLOGY</a>
+                                    <a href="#">Servicios</a>
                                   </div>
                                   <div class="meta-date">
-                                    <span>March 26, 2020</span>
+                                    <span>Marzo 26, 2022</span>
                                   </div>
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >There may be no consoles in the future ea
-                                    exec says</router-link
+                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  The property, complete with 30-seat screening
-                                  from room, a 100-seat amphitheater and a
-                                  swimming pond with sandy shower…
+                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  estos en algunas zonas de la ciudad.
                                 </p>
-                                <a href="#">Read more</a>
+                                <a href="#">Leer más</a>
                               </div>
                             </div>
                           </div>

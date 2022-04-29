@@ -11,9 +11,9 @@
                     <li class="breadcrumb-item">
                       <a href="index.html">Home</a>
                     </li>
-                    <li class="breadcrumb-item"><a href="#">Category</a></li>
+                    <li class="breadcrumb-item"><a href="#">Categoria</a></li>
                     <li class="breadcrumb-item active" aria-current="page">
-                      Sports
+                      Venta de Inmuebles
                     </li>
                   </ol>
                 </nav>
@@ -24,7 +24,7 @@
                 <div class="archive-btn">
                   <ul>
                     <li>
-                      <span>Category: <span>Sports</span></span>
+                      <span>Categoria: <span>Venta de Inmuebles</span></span>
                     </li>
                   </ul>
                 </div>

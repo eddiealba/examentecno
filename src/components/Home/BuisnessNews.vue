@@ -6,8 +6,8 @@
         darkClass && 'title' in darkClass ? darkClass.title : '',
       ]"
     >
-      <h3 class="title">Business News</h3>
-      <a href="#">ALL SEE</a>
+      <h3 class="title">Negocios</h3>
+      <a href="#">VER TODO</a>
     </div>
     <div class="business-post">
       <template v-for="(data, index) in TrendingPosts.slice(0, 4)">

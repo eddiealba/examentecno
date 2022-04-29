@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-title">
-            <h3 class="title">Feature News</h3>
+            <h3 class="title">Reportajes interesantes</h3>
           </div>
         </div>
       </div>

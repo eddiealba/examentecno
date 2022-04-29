@@ -6,7 +6,7 @@
         darkClass && 'title' in darkClass ? darkClass.title : '',
       ]"
     >
-      <h3 class="title">Sports News</h3>
+      <h3 class="title">El Deportivo</h3>
     </div>
     <div class="row">
       <div class="col-lg-6 col-md-6">
