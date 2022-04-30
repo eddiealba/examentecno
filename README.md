@@ -10,6 +10,7 @@ Herramientas Utilizadas:
 - vue-slick-carrusel
 - eslint v6.7.2
 
+
 Instrucciones
 
 Para comenzar, siga estos pasos:
@@ -23,6 +24,7 @@ Paquetes de instalación: npm i , npm install o yarn .
 Inicie el proyecto localmente: npm run serve o yarn serve (ejecutándose en el puerto 8080).
 
 Video explicación del código: https://drive.google.com/file/d/19HyQQ61HUWpshjaB6sStUQIucWFz3fU2/view?usp=sharing
+
 
 Integrantes:
 
