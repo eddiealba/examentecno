@@ -4,11 +4,14 @@
 Herramientas Utilizadas:
 
 - Bootstrap v4.5.0
-- Vue CVA
+- Vue CVA.
 - Enrutador Vue v3.2.0
 - Vuex v3.6.2
 - vue-slick-carrusel
 - eslint v6.7.2
+- Google Meet.
+- WhatsApp.
+- Zoom.
 
 
 Instrucciones
@@ -28,7 +31,7 @@ Video explicación del código: https://drive.google.com/file/d/19HyQQ61HUWpshja
 
 Integrantes:
 
-Lopez Jordan, Nikolai Oscar
+López Jordán, Nikolai Oscar(Trabajo en la parte de Inicio, Clasificados y arreglos diversos en diferentes partes del proyecto)
 
 Beltran Quispe, Ruddy Randolt(trabajo en la pestaña servicios, modifico las noticias)
 

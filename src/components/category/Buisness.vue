@@ -9,7 +9,7 @@
                 <nav aria-label="breadcrumb">
                   <ol class="breadcrumb">
                     <li class="breadcrumb-item">
-                      <a href="index.html">Home</a>
+                      <a href="index.html">Inicio</a>
                     </li>
                     <li class="breadcrumb-item"><a href="#">Categoria</a></li>
                     <li class="breadcrumb-item active" aria-current="page">
@@ -54,7 +54,7 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
+                                    >Se ofrece el servicio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
@@ -90,12 +90,12 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanías</router-link
+                                    >Se ofrece el servicio de mecánica a la ciudadanías</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  La oferta del plomero es bastante buena considerando la falta de 
-                                  estos en algunas zonas de la ciudad.
+                                  El servicio del mecánico es bastante bueno, considerando la falta de 
+                                  estos en algunas zonas de la ciudad. Incluye servicio de Grua
                                 </p>
                                 <a href="#">Leer más</a>
                               </div>
@@ -126,11 +126,11 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
+                                    >Se ofrece el servicio de cerrajeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  La oferta del servicio de cerrajeria es bastante buena considerando la falta de 
                                   estos en algunas zonas de la ciudad.
                                 </p>
                                 <a href="#">Leer más</a>
@@ -162,11 +162,11 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
+                                    >Se ofrece el servicio de carpinteria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  La oferta del serivico de carpinteria es bastante buena considerando la falta de 
                                   estos en algunas zonas de la ciudad.
                                 </p>
                                 <a href="#">Leer más</a>
@@ -198,11 +198,11 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
+                                    >Se ofrece el servicio de lavado de autos a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  El servicio de lavado de autos es el mejor de la ciudad. Considerando la gran oferta de 
                                   estos en algunas zonas de la ciudad.
                                 </p>
                                 <a href="#">Leer más</a>
@@ -234,11 +234,11 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
+                                    >Se ofrece el servicio de torneria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  La oferta del servicio de torneria es bastante buena considerando la falta de 
                                   estos en algunas zonas de la ciudad.
                                 </p>
                                 <a href="#">Leer más</a>
@@ -270,7 +270,7 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
+                                    >Se ofrece el servicio de plomeria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
@@ -306,11 +306,11 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
+                                    >Se ofrece el servicio de tecnico de computadoras a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  La oferta servicio del técnico de computadoras es bastante buena considerando la falta de 
                                   estos en algunas zonas de la ciudad.
                                 </p>
                                 <a href="#">Leer más</a>
@@ -342,11 +342,11 @@
                                 </div>
                                 <h3 class="title">
                                   <router-link to="/posts/postOne"
-                                    >Se ofrece el servcio de plomeria a la ciudadanía</router-link
+                                    >Se ofrece el servcio de carpinteria a la ciudadanía</router-link
                                   >
                                 </h3>
                                 <p class="text">
-                                  La oferta del plomero es bastante buena considerando la falta de 
+                                  La oferta del carpintero es bastante buena considerando la falta de 
                                   estos en algunas zonas de la ciudad.
                                 </p>
                                 <a href="#">Leer más</a>

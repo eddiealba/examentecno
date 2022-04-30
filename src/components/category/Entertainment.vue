@@ -41,12 +41,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Celular en venta: Xiaomi Mi 8</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -57,13 +56,10 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Celular con medio uso, sin desgaste físico. A prueba del nuevo comprador. Precio: 1500 Bs. 
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -78,12 +74,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Router con poco uso</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -94,13 +89,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Router con poco uso, sin desgaste físico. A prueba del nuevo comprador
+                            Precio: 200 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -115,12 +108,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Galaxy Buds 2 nuevos</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -131,13 +123,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Galaxy BUds 2 en caja sellada. A prueba del nuevo comprador
+                            Precio: 1000 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -152,12 +142,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Mouse desgastado</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -168,13 +157,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Mouse con mucho uso, con desgaste físico. A prueba del nuevo comprador
+                            Precio: 100 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -189,12 +176,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Funda de Laptop Nueva</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -205,13 +191,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Funda de Laptop nueva, Color negro, Rojo, Verde disponibles. A prueba del nuevo comprador
+                            Precio: 350 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -226,12 +210,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Cargador rápido nuevo de fábrica</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -242,13 +225,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Cargador rápido sellado de fábrica. A prueba del nuevo comprador
+                            Precio: 300 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -263,12 +244,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Silla Gamer medio uso</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -279,13 +259,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Silla gamer con medio uso, sin desgaste físico. A prueba del nuevo comprador
+                            Precio: 500 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -300,12 +278,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Mesa comedor antigua</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -316,13 +293,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Mesa comdor antigua bien conservada, sin desgaste físico. A prueba del nuevo comprador
+                            Precio: 1000 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -337,12 +312,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Tablet Refurbished</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -353,13 +327,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Tablet con proceso Refurbished, sin desgaste físico. A prueba del nuevo comprador
+                            Precio: 1000 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
@@ -374,12 +346,11 @@
                         <div class="bussiness-post-content">
                           <h3 class="title">
                             <router-link to="/posts/postOne"
-                              >She tried for many years now finallize pregnant
-                              &amp; happy and</router-link
+                              >Polera de The Strongest Original Nueva</router-link
                             >
                           </h3>
                           <div class="meta-date-link">
-                            <span>April 26, 2020</span>
+                            <span>26 de Abril, 2022</span>
                             <ul>
                               <li>
                                 <a href="#"><i class="fal fa-bookmark"></i></a>
@@ -390,13 +361,11 @@
                             </ul>
                           </div>
                           <p>
-                            She tried for so many years and now she finally
-                            pregnant happy and things are going well &amp; it
-                            just happens that this pregnancy takes place with
-                            this epidemic…
+                            Polera de The Strongest Original Nueva. A prueba del comprador
+                            Precio: 350 Bs.
                           </p>
                           <a href="#"
-                            >LEARN MORE
+                            >Leer más
                             <img src="@/assets/images/arrow-2.svg" alt=""
                           /></a>
                         </div>
