@@ -30,6 +30,6 @@ Integrantes:
 
 Lopez Jordan, Nikolai Oscar
 
-Beltran Quispe, Ruddy Randolt
+Beltran Quispe, Ruddy Randolt(trabajo en la pestaña servicios, modifico las noticias)
 
 Alba Pando, Eddie Andre (trabajo en la pestaña de contactos, adicionalmente colaboro en la realización de los componentes Header y Footer).
