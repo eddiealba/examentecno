@@ -2,12 +2,13 @@
 
 
 Herramientas Utilizadas:
-Bootstrap v4.5.0
-Vue CVA
-Enrutador Vue v3.2.0
-Vuex v3.6.2
-vue-slick-carrusel
-eslint v6.7.2
+
+- Bootstrap v4.5.0
+- Vue CVA
+- Enrutador Vue v3.2.0
+- Vuex v3.6.2
+- vue-slick-carrusel
+- eslint v6.7.2
 
 Instrucciones
 
